@@ -1,8 +1,12 @@
 p {
 	color: red;
-	font-size: 14px;
 }
 
 a {
 	color: pink;
+}
+
+body {
+	font-size: 20px;
+
 }
